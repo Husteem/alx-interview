@@ -1,11 +1,11 @@
 #!/usr/bin/python3
 """
-A solution to the Prime Game problem.
+A solution to the Prime Game problem
 """
 
+
 def primes(n):
-    """
-    Return list of prime numbers between 1 and n
+    """Return list of prime numbers between 1 and n inclusive
        Args:
         n (int): upper boundary of range. lower boundary is always 1
     """
