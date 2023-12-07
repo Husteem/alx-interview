@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 """
     N-queen problem
-      The next algo solve any N queen in any NxN
+    The next algo solve any N queen in any NxN
+  .....  Being N > 3
 """
 import sys
 
